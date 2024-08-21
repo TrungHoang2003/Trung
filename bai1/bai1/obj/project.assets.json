@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trung\\source\\repos\\bai1\\bai1\\bai1.csproj",
+      "projectUniqueName": "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai1\\bai1\\bai1.csproj",
       "projectName": "bai1",
-      "projectPath": "C:\\Users\\trung\\source\\repos\\bai1\\bai1\\bai1.csproj",
+      "projectPath": "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai1\\bai1\\bai1.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trung\\source\\repos\\bai1\\bai1\\obj\\",
+      "outputPath": "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai1\\bai1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

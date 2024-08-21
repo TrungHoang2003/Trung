@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography;
 
 namespace Bai1 
 {
@@ -6,19 +7,28 @@ namespace Bai1
     {
         static void Main(string[] args) 
         {
-            Console.WriteLine("Giai tich, hieu, tong cua 2 so");
-            Console.Write("nhap so thu nhat: ");
-            int a = Convert.ToInt32(Console.ReadLine());
-            Console.Write("nhap so thu hai: ");
-            int b = Convert.ToInt32(Console.ReadLine());
-
+            int a, b;
+            while (true) 
+            {
+                Console.Write("Nhap so thu nhat: ");
+                if (int.TryParse(Console.ReadLine(), out a) == true) 
+                    break;
+                else { Console.WriteLine("Du lieu khong hop le.");}
+            }
+            while (true) 
+            {
+                Console.Write("Nhap so thu hai: ");
+                if (int.TryParse(Console.ReadLine(), out b) == true) 
+                    break;
+                else { Console.WriteLine("Du lieu khong hop le.");}
+            }
             int sum = a + b;
             int difference = a - b;
             double product = a * b;
 
             Console.WriteLine("Tong 2 so la: " + sum);
-            Console.WriteLine("hieu 2 so la: " + difference);
-            Console.WriteLine("Tich 2 so laL "+ product);
+            Console.WriteLine("Hieu 2 so la: " + difference);
+            Console.WriteLine("Tich 2 so la: " + product);
         }
     }
 }
