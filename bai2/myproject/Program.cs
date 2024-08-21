@@ -30,52 +30,41 @@ namespace HelloWorld
                 Console.WriteLine();
             }    
         }
+        static double input(double n)
+        {
+            while (true)
+            {
+                if (double.TryParse(Console.ReadLine(), out n))
+                    break;
+                Console.Write("Du lieu khong hop le, nhap lai: ");
+            }
+            return n;
+        }
         static void giaiPTbac1()
         {
-            double a, b;
+            double a = 0, b = 0;
             Console.WriteLine("giai phuong trinh bac 1");
-            while (true)
-            {
-                Console.Write("Nhap a:");
-                if (double.TryParse(Console.ReadLine(), out a))
-                    break;
-                Console.WriteLine("Du lieu khong hop le");
-            }
-            while (true)
-            {
-                Console.Write("Nhap b: ");
-                if (double.TryParse(Console.ReadLine(), out b))
-                    break;
-                Console.WriteLine("Du lieu khong hop le");
-            }
-            double x = -b/a;
-            Console.WriteLine("Ket qua: " + x);
+
+            Console.Write("Nhap a: ");
+            a = input(a);
+            Console.Write("Nhap b: ");
+            b = input(b);
+
+            double x = -b / a;
+            Console.WriteLine("nghiem cua phuong trinh la: " + x);
         }
         static void giaiPTbac2()
         {
-            double a, b, c;
-            Console.WriteLine("giai phuong trinh bac 1");
-            while (true)
-            {
-                Console.Write("Nhap a:");
-                if (double.TryParse(Console.ReadLine(), out a))
-                    break;
-                Console.WriteLine("Du lieu khong hop le");
-            }
-            while (true)
-            {
-                Console.Write("Nhap b: ");
-                if (double.TryParse(Console.ReadLine(), out b))
-                    break;
-                Console.WriteLine("Du lieu khong hop le");
-            }
-            while (true)
-            {
-                Console.Write("Nhap c: ");
-                if (double.TryParse(Console.ReadLine(), out c))
-                    break;
-                Console.WriteLine("Du lieu khong hop le");
-            }
+            double a = 0, b = 0, c = 0;
+            Console.WriteLine("giai phuong trinh bac 2");
+
+            Console.Write("Nhap a: ");
+            a = input(a);
+            Console.Write("Nhap b: ");
+            b = input(b);
+            Console.Write("Nhap c: ");
+            c = input(c);
+
             double delta = b * b - 4 * a * c;
             if (delta > 0)
             {
