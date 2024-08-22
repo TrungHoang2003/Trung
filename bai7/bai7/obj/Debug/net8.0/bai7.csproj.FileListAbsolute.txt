@@ -1,0 +1,15 @@
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\obj\Debug\net8.0\bai7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\obj\Debug\net8.0\bai7.AssemblyInfoInputs.cache
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\obj\Debug\net8.0\bai7.AssemblyInfo.cs
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\obj\Debug\net8.0\bai7.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\obj\Debug\net8.0\bai7.sourcelink.json
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\bin\Debug\net8.0\bai7.exe
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\bin\Debug\net8.0\bai7.deps.json
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\bin\Debug\net8.0\bai7.runtimeconfig.json
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\bin\Debug\net8.0\bai7.dll
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\bin\Debug\net8.0\bai7.pdb
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\obj\Debug\net8.0\bai7.dll
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\obj\Debug\net8.0\refint\bai7.dll
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\obj\Debug\net8.0\bai7.pdb
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\obj\Debug\net8.0\bai7.genruntimeconfig.cache
+C:\Users\trung\source\repos\cSharpLearning\bai7\bai7\obj\Debug\net8.0\ref\bai7.dll
