@@ -28,23 +28,14 @@ namespace Bai4
                     break;
                 Console.WriteLine("Vui long nhap so nguyen duong:" );
             }
-                    
-            if (n <= 1)
+            for (int i = 2; i < n; i++)
             {
-                Console.WriteLine(n + " khong phai la so nguyen to");
-            }
-            else
-            {
-                bool isPrime = KiemTraSoNguyenTo(n);
-                if (isPrime)
+                if(KiemTraSoNguyenTo(i))
                 {
-                    Console.WriteLine(n + " la so nguyen to");
+                    Console.WriteLine(i + " la so nguyen to");
                 }
-                else
-                {
-                    Console.WriteLine(n + " khong phai la so nguyen to");
-                }
-            }
+
+            } 
         }
     }
 }
