@@ -1,0 +1,14 @@
+C:\Users\trung\source\repos\bai22\bai22\bin\Debug\net8.0\bai22.exe
+C:\Users\trung\source\repos\bai22\bai22\bin\Debug\net8.0\bai22.deps.json
+C:\Users\trung\source\repos\bai22\bai22\bin\Debug\net8.0\bai22.runtimeconfig.json
+C:\Users\trung\source\repos\bai22\bai22\bin\Debug\net8.0\bai22.dll
+C:\Users\trung\source\repos\bai22\bai22\bin\Debug\net8.0\bai22.pdb
+C:\Users\trung\source\repos\bai22\bai22\obj\Debug\net8.0\bai22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\source\repos\bai22\bai22\obj\Debug\net8.0\bai22.AssemblyInfoInputs.cache
+C:\Users\trung\source\repos\bai22\bai22\obj\Debug\net8.0\bai22.AssemblyInfo.cs
+C:\Users\trung\source\repos\bai22\bai22\obj\Debug\net8.0\bai22.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\bai22\bai22\obj\Debug\net8.0\bai22.dll
+C:\Users\trung\source\repos\bai22\bai22\obj\Debug\net8.0\refint\bai22.dll
+C:\Users\trung\source\repos\bai22\bai22\obj\Debug\net8.0\bai22.pdb
+C:\Users\trung\source\repos\bai22\bai22\obj\Debug\net8.0\bai22.genruntimeconfig.cache
+C:\Users\trung\source\repos\bai22\bai22\obj\Debug\net8.0\ref\bai22.dll

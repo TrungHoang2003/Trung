@@ -1,0 +1,6 @@
+C:\Users\trung\source\repos\cSharpLearning\bai23\Common\bin\Debug\Common.dll
+C:\Users\trung\source\repos\cSharpLearning\bai23\Common\bin\Debug\Common.pdb
+C:\Users\trung\source\repos\cSharpLearning\bai23\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\cSharpLearning\bai23\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\cSharpLearning\bai23\Common\obj\Debug\Common.dll
+C:\Users\trung\source\repos\cSharpLearning\bai23\Common\obj\Debug\Common.pdb
