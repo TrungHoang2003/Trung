@@ -1,0 +1,9 @@
+C:\Users\trung\source\repos\cSharpLearning\bai24\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\trung\source\repos\cSharpLearning\bai24\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\trung\source\repos\cSharpLearning\bai24\Bussiness\bin\Debug\Common.dll
+C:\Users\trung\source\repos\cSharpLearning\bai24\Bussiness\bin\Debug\Common.pdb
+C:\Users\trung\source\repos\cSharpLearning\bai24\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\cSharpLearning\bai24\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\cSharpLearning\bai24\Bussiness\obj\Debug\Bussiness.csproj.Up2Date
+C:\Users\trung\source\repos\cSharpLearning\bai24\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\trung\source\repos\cSharpLearning\bai24\Bussiness\obj\Debug\Bussiness.pdb

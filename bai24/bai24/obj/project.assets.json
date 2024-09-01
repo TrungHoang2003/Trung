@@ -28,8 +28,8 @@
   "libraries": {
     "Bussiness/1.0.0": {
       "type": "project",
-      "path": "../DataAccess/Bussiness.csproj",
-      "msbuildProject": "../DataAccess/Bussiness.csproj"
+      "path": "../Bussiness/Bussiness.csproj",
+      "msbuildProject": "../Bussiness/Bussiness.csproj"
     },
     "Common/1.0.0": {
       "type": "project",
@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai23\\bai23\\bai23.csproj",
-      "projectName": "bai23",
-      "projectPath": "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai23\\bai23\\bai23.csproj",
+      "projectUniqueName": "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai24\\bai24\\bai24.csproj",
+      "projectName": "bai24",
+      "projectPath": "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai24\\bai24\\bai24.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai23\\bai23\\obj\\",
+      "outputPath": "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai24\\bai24\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -72,8 +72,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai23\\DataAccess\\Bussiness.csproj": {
-              "projectPath": "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai23\\DataAccess\\Bussiness.csproj"
+            "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai24\\Bussiness\\Bussiness.csproj": {
+              "projectPath": "C:\\Users\\trung\\source\\repos\\cSharpLearning\\bai24\\Bussiness\\Bussiness.csproj"
             }
           }
         }

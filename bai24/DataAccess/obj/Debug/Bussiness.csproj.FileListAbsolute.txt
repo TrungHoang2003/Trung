@@ -1,9 +1,0 @@
-C:\Users\trung\source\repos\cSharpLearning\bai23\DataAccess\obj\Debug\Bussiness.csproj.AssemblyReference.cache
-C:\Users\trung\source\repos\cSharpLearning\bai23\DataAccess\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
-C:\Users\trung\source\repos\cSharpLearning\bai23\DataAccess\obj\Debug\DataAccess.dll
-C:\Users\trung\source\repos\cSharpLearning\bai23\DataAccess\obj\Debug\DataAccess.pdb
-C:\Users\trung\source\repos\cSharpLearning\bai23\DataAccess\bin\Debug\DataAccess.dll
-C:\Users\trung\source\repos\cSharpLearning\bai23\DataAccess\bin\Debug\DataAccess.pdb
-C:\Users\trung\source\repos\cSharpLearning\bai23\DataAccess\bin\Debug\Common.dll
-C:\Users\trung\source\repos\cSharpLearning\bai23\DataAccess\bin\Debug\Common.pdb
-C:\Users\trung\source\repos\cSharpLearning\bai23\DataAccess\obj\Debug\Bussiness.csproj.Up2Date

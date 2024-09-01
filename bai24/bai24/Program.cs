@@ -1,5 +1,7 @@
-﻿using DataAccess.DO;
-using System;
+﻿using System;
+using Bussiness;
+using Bussiness.DO;
+using Common;
 
 class Program
 {
@@ -16,8 +18,8 @@ class Program
                     int n = 0;
                     ValidateData.input("Nhap so luong sinh vien: ", ref n);
                     Struct.SinhVien[] dssinhvien = new Struct.SinhVien[n];
-                    DataAcess.ListSinhVienInput(ref dssinhvien);
-                    DataAcess.ListSinhVienOutput(dssinhvien);
+                    DataAccess.ListSinhVienInput(ref dssinhvien);
+                    DataAccess.ListSinhVienOutput(dssinhvien);
                     break;
                 case 2:
                     break;
